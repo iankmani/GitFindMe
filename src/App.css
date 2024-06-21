@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img,
+picture,
+svg {
+  max-width: 100%;
+  display: block;
+  border-radius: 25px;
+}
+
+/* HEADER SECTION */
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  /* border: 2px solid red; */
+  background-color: #070f2b;
+  padding: 30px;
+}
+.header-logo{
+  color: #ccd2da;
+  font-size: 2rem;
+}
+.middle-part{
+  color: #ccd2da;
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+  
+}
+.middle-part a{
+  color: #ccd2da;
+  text-decoration: none;
+}
+.input{
+ display: flex;
+}
+.main-component{
+  display: flex;
+}

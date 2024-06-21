@@ -1,0 +1,16 @@
+.follower{
+    background: #fff7d6;
+    /* border: 2px solid red; */
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin: 10px;
+}
+.follower img{
+    width: 100px;
+    padding-top: 5px;
+    /* padding-left: 10px; */
+}

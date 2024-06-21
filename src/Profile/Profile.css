@@ -1,0 +1,53 @@
+/* PROFILE SECTION */
+  
+  .Profile{
+    /* border: 2px solid red; */
+     padding-left: 40px;
+     width: 400px;
+     height: 800px;
+     overflow-y: scroll;
+     overflow-x: scroll;
+    
+  }
+  .image{
+    width: 300px;
+    padding-top: 15px;
+    
+  }
+  .Profile h2{
+    padding-top: 10px;
+  }
+  .Profile p{
+   
+    padding-top: 10px;
+    font-size: 1.1rem;
+  
+  }
+  .view-on-github{
+    background: #070f2b;
+    width: 200px;
+    height: 7vh;
+    color: white;
+    margin: 10px 0;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: 10px;
+  }
+  .view-on-github a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    gap: 10px;
+    text-align: center;
+  }
+  .user-details li{
+    display: flex;
+    gap: 5px;
+    padding: 5px;
+  }
+  
+  

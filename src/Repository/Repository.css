@@ -1,0 +1,32 @@
+/* REPOSITORY SECTION */
+
+.repository{
+    border: 2px solid red;
+    width: 400px;
+}
+
+.Repositories h2{
+    padding-bottom: 10px;
+    
+  }
+  .grey-part{
+    background: #f1f1e6;
+    padding: 10px;
+  
+  }
+  .grey-part h3{
+  padding-bottom: 10px;
+  }
+  .grey-part p{
+    padding-bottom: 10px;
+  }
+  .pinkish-part{
+    background: #fff7d6;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+  }
+  .pinkish-part p{
+    display: flex;
+    gap: 4px;
+  }
