@@ -1,0 +1,14 @@
+.following img{
+    width: 100px;
+    padding-top: 5px;
+}
+.following{
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin: 10px;
+    background: #fff7d6;
+}

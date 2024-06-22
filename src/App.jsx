@@ -2,6 +2,7 @@ import './App.css'
 import Profile from './Profile/Profile';
 import Repository from './Repository/Repository';
 import Followers from './Followers/Followers';
+import Following from './Following/Following';
 
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
      <div className='right-side'>
      <Repository/>
      <Followers/>
+     <Following/>
      </div>
     
      </div>
@@ -36,14 +38,7 @@ function App() {
         
       
         
-        {/* <section className='Following'>
-          <h2>Following</h2>
-          <div className='following'>
-            <img src="/assests/Primer.jpeg" alt="profile picture of following" />
-            <h3>Alex</h3>
-            <a href="#">view Alex</a>
-          </div>
-        </section> */}
+        
        
     </>
   )

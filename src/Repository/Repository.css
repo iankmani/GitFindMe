@@ -1,8 +1,9 @@
 /* REPOSITORY SECTION */
 
 .repository{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 400px;
+    margin: 20px auto;
 }
 
 .Repositories h2{
